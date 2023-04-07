@@ -1,19 +1,19 @@
 # Projeto de análise de dados de veículos
 
-## Descrição:
+## Descrição
 Este projeto tem como objetivo analisar os dados coletados nos últimos anos a partir de centenas de propagandas gratuitas de veículos publicadas diariamente em um site. O objetivo é determinar quais fatores influenciam o preço de um veículo.
 
-## Dados:
+## Dados
 O arquivo de dados está localizado em /datasets/vehicles_us.csv
 
-## Pré-processamento de dados:
+## Pré-processamento de dados
 
 - Identificação e estudo de valores ausentes
 - Conversão de dados para os tipos necessários
 - Cálculo e adição de novas colunas (dia da semana, mês, ano, idade do veículo, média de quilometragem por ano)
 - Substituição de valores de string por uma escala numérica na coluna condition
 
-## Análise exploratória de dados:
+## Análise exploratória de dados
 
 - Estudo dos parâmetros: preço, idade do veículo, quilometragem, número de cilindros e condição
 - Construção de histogramas para cada um desses parâmetros
