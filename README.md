@@ -1,4 +1,4 @@
-# Projeto de análise de dados de veículos
+# Projeto de análise de fatores que influenciam o preço dos veículos
 
 ## Descrição
 Este projeto tem como objetivo analisar os dados coletados nos últimos anos a partir de centenas de propagandas gratuitas de veículos publicadas diariamente em um site. O objetivo é determinar quais fatores influenciam o preço de um veículo.
