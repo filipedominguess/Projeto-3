@@ -1,4 +1,4 @@
-# Projeto de análise de fatores que influenciam o preço dos veículos
+# Projeto de Análise de Fatores que Influenciam o Preço dos Veículos
 
 ## Descrição
 Este projeto tem como objetivo analisar os dados coletados nos últimos anos a partir de centenas de propagandas gratuitas de veículos publicadas diariamente em um site. O objetivo é determinar quais fatores influenciam o preço de um veículo.
